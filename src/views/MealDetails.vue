@@ -68,7 +68,7 @@
 				<a
 					:href="meal.strSource"
 					target="_blank"
-					class="px-3 py-2 ml-3 text-indigo-600 transition-colors border-2 border-transparent rounded"
+					class="px-3 py-2 ml-3 text-indigo-700 transition-colors border-2 border-transparent rounded"
 				>
 					View Original Source
 				</a>
