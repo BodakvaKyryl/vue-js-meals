@@ -1,8 +1,6 @@
 <template>
 	<div class="p-8 pb-0">
-		<h1 class="mb-4 text-4xl font-bold text-red-500">
-			Meals for {{ ingredient.strIngredient }}
-		</h1>
+		<h1 class="mb-4 text-4xl font-bold text-red-500">Meals for {{ ingredient.strIngredient }}</h1>
 	</div>
 
 	<Meals :meals="meals" />
